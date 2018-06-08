@@ -18,6 +18,6 @@ public class Main {
         myNotebook.editNote(new Note("Запись"), new Note("Новая запись"));
         myNotebook.showAllNotes();
         */
-zslkdjgfhpgsadpgfiuasuhi[dgf]
+
     }
 }
