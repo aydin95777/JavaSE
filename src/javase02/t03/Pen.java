@@ -1,6 +1,6 @@
 package javase02.t03;
 
-class Pen extends Item {
+public class Pen extends Item {
     private String color;
 
     Pen(String name, String color, int price) {

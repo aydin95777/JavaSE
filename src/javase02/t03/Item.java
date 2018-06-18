@@ -1,11 +1,15 @@
 package javase02.t03;
 
-public class Item {
+public abstract class Item {
     String name;
     int price;
 
     public String getName() {
         return name;
+    }
+
+    public int getPrice() {
+        return price;
     }
 
 }
