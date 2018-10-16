@@ -1,4 +1,4 @@
-package javase02.t06;
+package javase02.t06t07;
 
 public class Main {
     public static void main(String[] args) {

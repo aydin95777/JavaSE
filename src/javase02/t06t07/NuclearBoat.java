@@ -1,5 +1,9 @@
-package javase02.t06;
+package javase02.t06t07;
 
+@MyAnnotation(
+        author =  "Aydyn Aliev",
+        date = "10.07.2018"
+)
 public class NuclearBoat {
     private String name;
     private boolean statement;

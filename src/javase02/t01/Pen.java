@@ -6,6 +6,7 @@ public class Pen {
     private String color;
     private int price;
 
+
     Pen(String color, int price) {
         this.color = color;
         this.price = price;
